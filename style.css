@@ -1,0 +1,27 @@
+logo{}
+.logo a{
+   margin-top: 10px;
+}
+
+
+.linklist {
+	margin-top: -24px;
+	padding-bottom: 10px;
+}
+
+.linklist a{
+    margin-right: 10px;
+   
+}
+/* feature start */
+
+.feature {
+	height: 4rem;
+	width: 4rem;
+	justify-content: center;
+	align-items: center;
+	display: inline-flex;
+	font-size: 2rem;
+
+}
+/* featre end */
